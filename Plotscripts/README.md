@@ -1,1 +1,1 @@
-python scripts to plot all results apart from Fig2
+python scripts to plot all results for BINN's architecture and hyperparameter design choices
