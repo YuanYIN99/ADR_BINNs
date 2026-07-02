@@ -12,5 +12,5 @@ This project includes:
 
 ## Data Access
 
-The training data used for these models is publicly available on Hugging Face: 
+The output data obtained by training BINNs is publicly available on Hugging Face: 
 [Insert Hugging Face Link Here]
