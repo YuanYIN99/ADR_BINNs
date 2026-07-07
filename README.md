@@ -1,6 +1,6 @@
 # ADR_BINNs
 
-This is the official repository for the paper: **"On the sensitivity of biologically-informed neural networks to architecture and hyperparameter design choices."**
+This is the official repository for the paper: **"Reliable mechanistic operator recovery with biologically-informed neural networks: principles for architecture and optimisation design."**
 
 ## Repository Contents
 
